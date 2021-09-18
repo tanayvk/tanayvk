@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Tanay Karnik</h1>
 <h3 align="center">A software engineer who likes solving problems and listening to audiobooks.</h3>
 
+- 👨‍💻 All of my projects are available at [https://tanay.xyz/portfolio](https://tanay.xyz/portfolio)
+
+- 📝 I regularly write articles on [https://tanay.xyz/blog](https://tanay.xyz/blog)
+
+- 📄 Know about my experiences [https://tanay.xyz/resume.pdf](https://tanay.xyz/resume.pdf)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/tanay" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="tanay" height="30" width="40" /></a>
