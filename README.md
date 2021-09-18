@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://dev.to/tanay" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="tanay" height="30" width="40" /></a>
 <a href="https://twitter.com/tanayvk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanayvk" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tanaykarnik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanaykarnik" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tanay-karnik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanay-karnik" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/tanayk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="tanayk" height="30" width="40" /></a>
 </p>
 
