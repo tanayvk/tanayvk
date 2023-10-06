@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://tanay.xyz/portfolio](https://tanay.xyz/portfolio)
 
-- 📝 I regularly write articles on [https://blog.tanay.xyz](https://blog.tanay.xyz)
+- 📝 I regularly write articles on [https://tanay.xyz](https://blog.tanay.xyz)
 
 - 📄 Know about my experiences [https://tanay.xyz/resume.pdf](https://tanay.xyz/resume.pdf)
 
