@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tanay Karnik</h1>
 <h3 align="center">A software engineer who likes solving problems and listening to audiobooks.</h3>
 
-- 👨‍💻 All of my projects are available at [https://tanay.xyz/portfolio](https://tanay.xyz/portfolio)
+- 👨‍💻 All of my projects are available at [https://tanay.xyz/projects](https://tanay.xyz/projects)
 
 - 📝 I regularly write articles on [https://tanay.xyz](https://tanay.xyz)
 
