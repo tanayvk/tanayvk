@@ -16,7 +16,7 @@ I use: JavaScript/TypeScript, Vue/Nuxt, React/Next.js, Go—and whatever gets th
 
 ## Get in touch
 
-Building something cool? Need technical consultation or a full project? Let's chat.
+Building something cool? Need technical consultation? Let's chat.
 
 **For quick questions:** [@tanayvk](https://twitter.com/tanayvk)  
 **For projects:** [foo.studio](https://foo.studio)  
