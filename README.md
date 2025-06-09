@@ -1,6 +1,6 @@
 # Hey, I'm Tanay.
 
-I build web apps that people actually want to use.
+I build cool web apps.
 I use: JavaScript/TypeScript, Vue/Nuxt, React/Next.js, Go—and whatever gets the job done fast and right.
 
 ## What I'm working on
